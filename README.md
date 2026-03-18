@@ -1,5 +1,5 @@
-📊 IBM Data Analytics Capstone Project
-👩‍💻 Author - Jesna Salim
+# 📊 IBM Data Analytics Capstone Project
+# 👩‍💻 Author - Jesna Salim
 End-to-end Data Analytics project using Python, SQL, Excel, Plotly &amp; Dash
 📌 Project Overview
 
