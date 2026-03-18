@@ -1,6 +1,7 @@
 # 📊 IBM Data Analytics Capstone Project
 # 👩‍💻 Author - Jesna Salim
 End-to-end Data Analytics project using Python, SQL, Excel, Plotly &amp; Dash
+
 📌 Project Overview
 
 This is an end-to-end Data Analytics project completed as part of the IBM Data Analytics Certification.
